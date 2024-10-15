@@ -102,7 +102,7 @@ export default function Projects() {
                     <img src={im} alt="Personal Portfolio" />
                     <div className="project--showcaseBtn">
                       <a
-                        href="https://github.com/Srinivas981"
+                        href="https://github.com/Srinivas981/Personal-Portfolio-main.git"
                         target="_blank"
                         rel="noreferrer"
                         className="iconBtn"
