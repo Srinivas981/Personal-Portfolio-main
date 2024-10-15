@@ -76,8 +76,8 @@ function EducationJourney() {
             Bapatla Engineering College,Bapatla
           </h4>
           <p>
-            Studied Bachelor of Science degree in Information Technology
-            field from Bapatla Engineering College and gain CGPA 7.89.
+          Studied Bachelor of Technology in Information Technology
+           at Bapatla Engineering College, achieving a CGPA of 8.00.
           </p>
         </VerticalTimelineElement>
 
