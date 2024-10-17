@@ -28,7 +28,7 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple">Chunduri Sai Srinivas</b> 
+                My name is <b className="purple">Chunduri Sai Srinivas </b> 
                   and I am a <b className="purple">Information Technology</b> 
                     student at <b className="purple">Bapatla Engineering College </b>
                       in Bapatla, Andhra Pradesh.
