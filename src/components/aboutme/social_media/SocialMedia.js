@@ -3,7 +3,6 @@ import {
   AiOutlineInstagram,
   AiFillGithub,
   AiFillLinkedin,
-  AiFillDiscord,
 } from "react-icons/ai";
 import { Container, Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
@@ -52,19 +51,6 @@ export default function SocialMedia() {
                 <AiFillLinkedin />
               </Zoom>
             </a>
-          </Col>
-                  <Col md={4}>
-            <a
-              href="https://discord.com/channels/@sreenivas99"
-              target="_blank"
-              rel="noreferrer"
-              className="icon-colour  home-social-icons"
-            >
-              <Zoom cascade>
-                <AiFillDiscord />
-              </Zoom>
-            </a>
-          </Col>
         </Row>
       </Container>
     </div>
