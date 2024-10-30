@@ -74,7 +74,7 @@ export default function ResumeProjects() {
                       <img src={age} alt="Age Calculator" />
                       <div className="project--showcaseBtn">
                         <a
-                          href="https://github.com/Srinivas981" // Update with your actual link
+                          href="https://d8e5ae78.age-calculator-1l8.pages.dev/" // Update with your actual link
                           target="_blank"
                           rel="noreferrer"
                           className="iconBtn"
